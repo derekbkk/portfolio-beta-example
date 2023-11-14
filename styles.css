@@ -1,0 +1,70 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    color: brown;
+    font-family:
+        monospace;
+    font-size:
+        20px;
+}
+
+h2 {
+    color:
+        brown;
+    font-family:
+        monospace;
+    font-size:
+        18px;
+}
+
+h3 {
+    color:
+        brown;
+    font-family:
+        monospace;
+    font-size:
+        16px;
+}
+
+hr {
+    background-color:
+        white;
+    border-style:
+        dotted none none;
+    border-width:
+        10px;
+    width:
+        25%;
+}
+
+img: {
+    background-color:
+        black;
+    border-radius:
+        70%;
+    width:
+        300px;
+}
+
+p {
+    font-family:
+        monospace;
+    font-size:
+        14px;
+    font-weight:
+        bolder;
+}
+
+table {
+    cellspacing:
+        10px;
+}
+
+tr {
+    align:
+        center;
+}
+
+/**********Class Selectors******/
